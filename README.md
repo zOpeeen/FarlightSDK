@@ -1,4 +1,5 @@
 # FarlightSDK
 
-GNames: 0x6EBB780
-UWorld: 0x7033488
+GWorld = 0x7033E98;
+GNames = 0x6EBC200;
+GOBJECT = 0x6ED4B80;
